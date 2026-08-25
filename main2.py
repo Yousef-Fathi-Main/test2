@@ -1,4 +1,4 @@
 print("yousef fathy")
-birth= int(input(" enter your birth : \n"))
-birth=2026-birth
-print(birth)
+age= int(input(" enter your age: \n"))
+age=2026-age
+print(age)
